@@ -19,6 +19,8 @@ theme: minima
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
+baseurl: nikhilsharma.github.io
+url: https://nikhil-shar.github.io/
 
 plugins:
   - jekyll-feed
